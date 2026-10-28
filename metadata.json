@@ -1,0 +1,8 @@
+{
+  "name": "Smuglife Studio - Custom Mug Art",
+  "description": "AI Art Styles & Heroic Character Synthesis for Bespoke 11oz Ceramic Mugs with seamless print-on-demand fulfillment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
